@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "incremental": true,
+    "target": "ESNext",
+    "module": "CommonJS",
+    "lib": [ "ESNext" ],
+    "strict": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "declaration": true,
+    "rootDir": "src",
+    "outDir": "dist"
+  }
+}
